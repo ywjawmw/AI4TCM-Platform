@@ -23,7 +23,7 @@
 
 <p align="center">
     <br>
-    <img src="./pics/freamwork.png" width="355"/>
+    <img src="./pics/freamwork.png"/>
     <br>
 </p>
 
@@ -31,13 +31,13 @@
 - 🚀 功能1：中药推荐（辅助开药）
   <p align="center">
     <br>
-    <img src="./pics/fun1.png" width="355"/>
+    <img src="./pics/fun1.png"/>
     <br>
     <br>
-    <img src="./pics/fun1-2.png" width="355"/>
+    <img src="./pics/fun1-2.png"/>
     <br>
     <br>
-    <img src="./pics/fun1-3.png" width="355"/>
+    <img src="./pics/fun1-3.png"/>
     <br>
   </p>
 - 🚀 
