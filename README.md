@@ -40,4 +40,50 @@
     <img src="./pics/fun1-3.png"/>
     <br>
   </p>
-- 🚀 
+  
+- 🚀 功能2：药理分析（提供可解释的方药科学理论依据）
+  <p align="center">
+    <br>
+    <img src="./pics/fun2.png"/>
+    <br>
+  </p>
+  
+- 🚀 功能3：“辨证论治”数据分析（提可解释的临床诊疗思维过程）
+  <p align="center">
+    <br>
+    <img src="./pics/fun3.png"/>
+    <br>
+  </p>
+- 🚀 功能4：核心方分析（生成处方）
+  <p align="center">
+    <br>
+    <img src="./pics/fun4-1.png"/>
+    <br>
+    <br>
+    <img src="./pics/fun4-2.png"/>
+    <br>
+  </p>
+- 🚀 功能5：证候推断
+  <p align="center">
+    <br>
+    <img src="./pics/fun5.png"/>
+    <br>
+  </p>
+- 🚀 功能6：中医药知识智能问询[基于“神农”中医药大模型](https://github.com/michael-wzhu/ShenNong-TCM-LLM)
+  <p align="center">
+    <br>
+    <img src="./pics/fun6.png"/>
+    <br>
+
+问询页面：
+      
+    <br>
+    <img src="./pics/fun6-1.png"/>
+    <br>
+  </p>
+- 🚀 功能7：智能知识查询功能
+  <p align="center">
+    <br>
+    <img src="./pics/fun7.png"/>
+    <br>
+  </p>
