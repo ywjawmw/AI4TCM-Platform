@@ -1,9 +1,9 @@
 # “医”心医意——智能中医传承创新辅助平台
-[**中文**](./README.md)
+[**中文**](./README.md)|
 
 <p align="center">
     <br>
-    <img src="./pics/logo.jpg" width="355"/>
+    <img src="./pics/logo.png" width="355"/>
     <br>
 </p>
 <p align="center">
@@ -21,6 +21,23 @@
   
 **平台技术框架**
 
-
+<p align="center">
+    <br>
+    <img src="./pics/freamwork.png" width="355"/>
+    <br>
+</p>
 
 **平台页面展示**
+- 🚀 功能1：中药推荐（辅助开药）
+  <p align="center">
+    <br>
+    <img src="./pics/fun1.png" width="355"/>
+    <br>
+    <br>
+    <img src="./pics/fun1-2.png" width="355"/>
+    <br>
+    <br>
+    <img src="./pics/fun1-3.png" width="355"/>
+    <br>
+  </p>
+- 🚀 
