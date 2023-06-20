@@ -23,7 +23,7 @@
 
 <p align="center">
     <br>
-    <img src="./pics/freamwork.png" width="200px"/>
+    <img src="./pics/freamwork.png" width="2000px"/>
     <br>
 </p>
 
