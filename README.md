@@ -142,3 +142,6 @@
     <img src="./pics/fun7-3.png"/>
     <br>
   </p>
+  
+**平台介绍视频**
+https://video.medtion.com/customerTrans/176b3e60b849f3b0c3162c280106a138/140ba123-184560ac8fa-0003-db83-d0b-9acb5.mp4
